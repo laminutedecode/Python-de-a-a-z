@@ -1,5 +1,4 @@
 # 🌳 Les ensembles (set) en Python
-# Un set est une collection non ordonnée d'éléments uniques.
 # Il ne peut pas contenir de doublons, et l'ordre des éléments n'est pas garanti.
 
 # Création d'un set
@@ -53,17 +52,3 @@ print("Différence symétrique :", diff_sym)
 # 11. Vérifier si un élément est dans un set
 print("'pomme' dans set_a ?", "pomme" in set_a)
 print("'melon' dans set_a ?", "melon" in set_a)
-
-
-
-# Caractéristiques principales :
-# Non ordonné (l’ordre peut changer à chaque affichage)
-# Pas de doublons
-# Modifiable (tu peux ajouter et retirer des éléments)
-# Non indexable (tu ne peux pas faire set[0])
-
-
-#⚠️ À éviter avec les set :
-# Si tu veux accéder par index → un tuple ou une liste
-# Si l’ordre compte → préfère une liste
-# Si tu veux des paires clé/valeur → un dictionnaire
