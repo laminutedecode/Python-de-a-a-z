@@ -25,6 +25,9 @@ Cette formation progressive vous permettra d'apprendre Python depuis les bases j
 | 04 | Opérateurs Mathématiques | `04-Opérateurs-Mathematiques.py` | Calculs et opérations arithmétiques |
 | 05 | Conversion de Types | `05-Converssion-de-types.py` | Transformer les types de données |
 | 06 | Les Listes | `06-Les-Lists.py` | Manipulation des listes et collections |
+| 07 | Les Dictionnaires | `07-Les-dictionnaires.py` | Travailler avec les dictionnaires (clés-valeurs) |
+| 08 | Tuples | `08-Tuples.py` | Comprendre les tuples (collections immutables) |
+| 09 | Ensemble (Set) | `09-Ensemble-Set.py` | Manipulation des ensembles et opérations |
 
 ### 🚀 Chapitres à Venir
 
