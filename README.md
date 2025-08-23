@@ -28,6 +28,11 @@ Cette formation progressive vous permettra d'apprendre Python depuis les bases j
 | 07 | Les Dictionnaires | `07-Les-dictionnaires.py` | Travailler avec les dictionnaires (clés-valeurs) |
 | 08 | Tuples | `08-Tuples.py` | Comprendre les tuples (collections immutables) |
 | 09 | Ensemble (Set) | `09-Ensemble-Set.py` | Manipulation des ensembles et opérations |
+| 10 | Functions def | `10-Functions-def.py` | Functions def |
+| 11 | Functions lambda | `11-Functions-lambda.py` | Functions lambda |
+| 12 | Function input | `12-Input.py` | Functions input |
+| 13 | Operateurs | `13-Operateurs.py` | Operateurs |
+| 14 | Conditions avec if et elif | `14.Conditions-if-elif.py` | Conditions avec if et elif |
 
 ### 🚀 Chapitres à Venir
 
